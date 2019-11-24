@@ -2,7 +2,9 @@
   {
     "id": "28",
     "name": "Voyager A",
-    "propellant": "Warp Drive",
+    "propellant": "RawGit is now in a sunset phase and will soon shut down. It's been a fun five years, but all things must end.
+
+GitHub repositories that served content through RawGit within the last month will continue to be served until at least October of 2019. URLs for other repositories are no longer being served",
     "destination": "Alpha Centauri A",
     "imageurl": "https://raw.githubusercontent.com/Oclemy/SampleJSON/master/spacecrafts/voyager.jpg",
     "technologyexists": "1"
